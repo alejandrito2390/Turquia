@@ -1,0 +1,5 @@
+y == (0,1,2,3,4,5)
+x == (6,7,8,9)
+ probando commis y ramas
+x = int(input("ingresar el primer numero")
+y = int(input("ingresar el segundo numero")
